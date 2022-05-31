@@ -36,5 +36,3 @@ absolute path name
 17-tree	Creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory
 
 18-commas	Lists all the files and directories of the current directory, separated by commas (,)
-
-holberton.mgc	Magic file that can be used with the command file to detect Holberton data files. Holberton data files always contain the string HOLBERTON at offset 0
