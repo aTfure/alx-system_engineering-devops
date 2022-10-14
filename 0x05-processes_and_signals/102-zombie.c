@@ -8,14 +8,13 @@
  *
  * Return: 0
  */
-
 int infinite_while(void)
 {
 	while (1)
 	{
 		sleep(1);
 	}
-		return (0);
+	return (0);
 }
 
 /**
@@ -23,7 +22,6 @@ int infinite_while(void)
  *
  * Return: Always 0
  */
-
 int main(void)
 {
 	int i;
@@ -36,7 +34,6 @@ int main(void)
 			return (0);
 		}
 	}
-
 	infinite_while();
 	return (0);
 }
